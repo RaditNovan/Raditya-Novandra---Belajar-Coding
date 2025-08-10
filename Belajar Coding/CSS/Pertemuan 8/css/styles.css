@@ -1,0 +1,40 @@
+/* color */
+
+/* foreground color */
+
+/* color name */
+
+h1 {
+    color: darkcyan;
+}
+
+/* hex code */
+
+h2 {
+    color: #ff005d;
+}
+
+/* rgb value */
+
+p {
+    color: rgb(120, 20, 255);
+}
+
+/* background color */
+/* hex code */
+
+body {
+    background-color: #efefef;
+}
+
+h1 {
+    background-color: darkkhaki;
+}
+
+h2 {
+    background-color: darkseagreen;
+}
+
+p {
+    background-color: rgb(37, 6, 6);
+}
