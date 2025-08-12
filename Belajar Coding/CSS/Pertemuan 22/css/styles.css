@@ -1,0 +1,41 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #223311;
+}
+
+table{
+    width: 600px;
+    /* border-spacing: 10px; */
+    border-collapse: collapse;
+}
+
+th,td{
+    padding: 7px 10px 10px 10px;
+    border-left: 2px solid black;
+}
+
+th{
+    border-top: 2px solid darkorange;
+    border-bottom: 2px solid black;
+    border-left: 2px solid darkorange;
+    border-right: 2px solid darkorange;
+    text-align: left;
+    font-size: 80%;
+}
+
+tr.genap{
+    background-color: #efefef;
+}
+
+
+.keterangan:hover{
+    background-color: orchid;
+}
+
+tr:hover{
+    background-color: cadetblue;
+}
+
+table{
+    border: 1px solid black;
+}
